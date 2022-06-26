@@ -16,3 +16,7 @@ Docker image for TagoCore platform
 ```bash
 docker run -d --name tcore -p 8080:8888 douglaszuqueto/tcore:v0.4.1
 ```
+
+## Docker Hub
+
+* [Link](https://hub.docker.com/repository/docker/douglaszuqueto/tcore)
