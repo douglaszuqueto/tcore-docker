@@ -2,6 +2,13 @@
 
 Docker image for TagoCore platform
 
+***Deprecated***
+
+Now, TagoCore have a official image.
+
+* [Github Repository](https://github.com/tago-io/docker-tagocore)
+* [Docker Hub](https://hub.docker.com/r/tagoio/tagocore)
+
 ## Support
 
 * X64 Systems
